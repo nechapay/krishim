@@ -936,3 +936,24 @@ td {
   transform: scale(10);
   opacity: 0.0;
 }
+
+.slide-5 {
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url('../img/img_011.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.slide-8 {
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url('../img/img_017.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.slide-9 {
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url('../img/img_019.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
